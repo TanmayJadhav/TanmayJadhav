@@ -1,21 +1,26 @@
-### Hi 👋 I am Tanmay Jadhav
+### Hi there 👋, I'm Tanmay Jadhav
+#### Web Developer 
 
-I am from Mumbai , quite enthusiast and passionate about learning . I love to work on Website Development , specially on Backend. I really love to learn new languages and frameworks. I have worked on web frameworks like Django and Laravel. 
-
-You can connect me on LinkedIn . I will be happy to share my knowledge : https://www.linkedin.com/in/tanmay-jadhav-433b6419a
+I am from Mumbai , quite enthusiast and passionate about learning . I love to work on Website Development , specially on Backend. I really love to learn new languages and frameworks. I have worked on web frameworks like Django and Laravel.
 
 Apart from this I have a YouTube channel where I discuss about new Technology and Gadgets. This is just my hobby to learn about new technology and new products and also help people to understand about it. I also have knowledge about Video Editing . I have used editing softwares like Sony Vegas Pro and Adobe Premiere Pro.
-If you are a Tech Geek then have a look at my channel : https://www.youtube.com/c/TECHMASTITJ
+
+You can connect me on LinkedIn . I will be happy to share my knowledge.
+
+If you are a Tech Geek then have a look at my channel.
 
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / PYTHON / DJANGO / LARAVEL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanmayJadhav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanmay-jadhav-433b6419a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/TECHMASTITJ)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayJadhav)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayJadhav&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TanmayJadhav)  
+
