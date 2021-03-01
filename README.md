@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi 👋 I am Tanmay Jadhav
 
-<!--
-**TanmayJadhav/TanmayJadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am from Mumbai , quite enthusiast and passionate about learning . I love to work on Website Development , specially on Backend. I really love to learn new languages and frameworks. I have worked on web frameworks like Django and Laravel. 
+
+You can connect me on LinkedIn . I will be happy to share my knowledge : https://www.linkedin.com/in/tanmay-jadhav-433b6419a
+
+Apart from this I have a YouTube channel where I discuss about new Technology and Gadgets. This is just my hobby to learn about new technology and new products and also help people to understand about it. I also have knowledge about Video Editing . I have used editing softwares like Sony Vegas Pro and Adobe Premiere Pro.
+If you are a Tech Geek then have a look at my channel : https://www.youtube.com/c/TECHMASTITJ
+
 
 Here are some ideas to get you started:
 
